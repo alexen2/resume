@@ -6,9 +6,9 @@
 ## Проекты которые можно глянуть:
 | Описание | Ссылка | Репозиторий
 | --- | --- |---
-| **CYBERFI** <br /> DeFi проект. Трейдинговая платформа, для автоматизации торгов. | [Сайт проекта](https://cyberfi.tech) <br />[Сам проект](https://v2.cyberfi.tech) | 
-| **MarsBase** <br /> Defi проект. Торговая площадка с лучшими ценами на любой альткоин. Для торгов любым объемом, не теряя денег из-за проскальзывания или влияния цены. | [Сайт проекта](https://marsbase.io) <br />[Сам проект](https://bnb.otcmarsbase.io) |
-| **Docs** <br /> Записная книжка, с визуальным редактором контента и управлением правами доступа. | Demo | [Front](https://github.com/alexen2/docs-front) <br />[Back](https://github.com/alexen2/docs-back)
+| **CYBERFI** <br /> DeFi проект. Трейдинговая платформа, для автоматизации торгов. | [Сайт&nbsp;проекта](https://cyberfi.tech){:target="_blank"} <br />[Сам&nbsp;проект](https://v2.cyberfi.tech){:target="_blank"} | 
+| **MarsBase** <br /> Defi проект. Торговая площадка с лучшими ценами на любой альткоин. Для торгов любым объемом, не теряя денег из-за проскальзывания или влияния цены. | [Сайт&nbsp;проекта](https://marsbase.io){:target="_blank"} <br />[Сам&nbsp;проект](https://bnb.otcmarsbase.io){:target="_blank"} |
+| **Docs** <br /> Записная книжка, с визуальным редактором контента и управлением правами доступа. | Demo | [Front](https://github.com/alexen2/docs-front){:target="_blank"} <br />[Back](https://github.com/alexen2/docs-back){:target="_blank"}
 
 
 ## Где и что делал:
